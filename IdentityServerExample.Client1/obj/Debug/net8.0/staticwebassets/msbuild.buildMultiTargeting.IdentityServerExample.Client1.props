@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IdentityServerExample.Client1.props" />
+</Project>
